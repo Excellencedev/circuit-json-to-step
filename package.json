@@ -28,6 +28,8 @@
     "circuit-json-to-connectivity-map": "^0.0.22",
     "circuit-json-to-gltf": "^0.0.19",
     "circuit-to-svg": "^0.0.226",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2",
     "schematic-symbols": "^0.0.202"
   }
 }
